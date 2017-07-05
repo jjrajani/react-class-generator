@@ -1,0 +1,21 @@
+{
+  "name": "shell_script_attmept",
+  "version": "1.0.0",
+  "description": "my own react class template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "react_class": "./index.js"
+  },
+  "keywords": [
+    "react",
+    "class",
+    "template",
+    "creator"
+  ],
+  "author": "humdrum",
+  "license": "ISC",
+  "dependencies": {}
+}
